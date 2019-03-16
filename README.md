@@ -1,6 +1,8 @@
 # PhotoBlog
 This ia an app through which you can share photos just like instagram  
 
+NOTE : To use this app, put your google jason file in app.   
+
 ![alt text](https://github.com/mishra3452/PhotoBlog/blob/master/Screenshot_2019-03-17-01-00-44-756_in.png)  
 
 
